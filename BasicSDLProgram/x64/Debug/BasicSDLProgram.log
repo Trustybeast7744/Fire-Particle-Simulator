@@ -1,0 +1,14 @@
+﻿  Screen.cpp
+  Particle.cpp
+  BasicSDLProgram.cpp
+c:\users\andre\source\repos\basicsdlprogram\basicsdlprogram\basicsdlprogram.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\andre\source\repos\basicsdlprogram\basicsdlprogram\basicsdlprogram.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\andre\source\repos\basicsdlprogram\basicsdlprogram\basicsdlprogram.cpp(35): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\andre\source\repos\basicsdlprogram\basicsdlprogram\basicsdlprogram.cpp(36): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\andre\source\repos\basicsdlprogram\basicsdlprogram\basicsdlprogram.cpp(42): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\andre\source\repos\basicsdlprogram\basicsdlprogram\basicsdlprogram.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  Swarm.cpp
+  Generating Code...
+  BasicSDLProgram.vcxproj -> C:\Users\andre\source\repos\BasicSDLProgram\x64\Debug\BasicSDLProgram.exe
